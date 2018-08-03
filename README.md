@@ -18,4 +18,10 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT14 Fixing 3rd Person Camera Rotation
 * BT15 User Interface (UI) in Unreal
 * BT16 Main Menu Screens
+* BT17 UI Scale Box, Buttons, & More
+* BT18 Controller Ready Navigation
+* BT19 Trial Packaging Your Game
+* BT20 Delegating to Components
+* BT21 Using virtual and override
+
 
